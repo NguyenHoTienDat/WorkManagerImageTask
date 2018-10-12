@@ -1,0 +1,1 @@
+This directory is where all the files are uploaded.

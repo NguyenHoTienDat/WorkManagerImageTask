@@ -1,0 +1,4 @@
+#Fri Oct 12 09:09:42 ICT 2018
+base.0=/home/nguyen.ho.tien.dat/workingspace/Android/WorkManagerPhotoUpload/PhotoUploader_materials/Android starter project/app/build/intermediates/transforms/dexMerger/debug/7
+path.0=classes.dex
+renamed.0=classes.dex
